@@ -1,3 +1,2 @@
 # gitskill
-this is a master change.
-1`
+this is a master and dev change.
